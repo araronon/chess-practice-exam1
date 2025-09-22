@@ -6,6 +6,7 @@ package chess;
  * Note: You can add to this class, but you may not alter
  * signature of the existing methods.
  */
+// yes
 public class ChessBoard {
 
     public ChessBoard() {
